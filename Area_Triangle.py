@@ -3,6 +3,7 @@ def Area_of_Tri(base,height):
     print("Area of triangle is ",Area)
     print("Area of React")
     print("Area of Square")
+    print("Area of Hexagon")
 
 if __name__ == "__main__":
     a = int(input("Enter base dimension "))
