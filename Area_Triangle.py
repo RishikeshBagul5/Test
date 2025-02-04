@@ -4,6 +4,7 @@ def Area_of_Tri(base,height):
     print("Area of React")
     print("Area of Square")
     print("God of the Pirates")
+    print("Ace")
 if __name__ == "__main__":
     a = int(input("Enter base dimension "))
     b = int(input("Enter Height Dimension "))
